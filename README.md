@@ -11,7 +11,7 @@ This Django web application provides a simple yet effective task management syst
 # Task management
 - Create, update, and delete tasks
 - View task details
-- Reorder tasks
+- Reorder tasks with JavaScript
 # Usage
 Run the Django development server: `python manage.py runserver`
 1. Navigate to http://localhost:8000/ in your web browser to use the application.
